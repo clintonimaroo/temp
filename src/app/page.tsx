@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className="container">
       <div className="content">
-        <h1 className="title">Should have paid your website developer</h1>
+        <h1 className="title">Website Under Construction</h1>
         <p className="message">
-          Services were delivered. Payment from Joseph Smith Furniture remains outstanding.
+          We are currently working on something amazing for this domain. Please check back soon for the official launch.
         </p>
         <p className="footer">
-          If you need access, pay me.
+          Built by <a href="https://www.linkedin.com/in/clintonimaro/" target="_blank" rel="noopener noreferrer">@clintonimaro</a>
         </p>
       </div>
     </div>
